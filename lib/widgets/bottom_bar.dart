@@ -75,7 +75,7 @@ class BottomBar extends StatelessWidget {
                         children: [
                           InfoText(
                             type: 'Email',
-                            text: 'mail@pinecones.ltd',
+                            text: 'info@pinecones.ltd',
                           ),
                           SizedBox(height: 5),
                           InfoText(
