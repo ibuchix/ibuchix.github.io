@@ -50694,7 +50694,7 @@ return A.W($async$kj,r)},
 M(a){var s=4279594668,r=null
 return A.a3p(A.a5b(new A.S(s),A.a62(u.r,B.jW,250,1000)),new A.S(s),A.pm(new A.qV(new A.Ty(this),A.Wt("Send Message Via Whatsapp",A.nJ(r,r,B.h,r,r,r,r,r,"Syncopate",r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),r),r,r),r)}}
 A.Ty.prototype={
-$0(){this.a.kj("Hello","+447534826871")},
+$0(){this.a.kj("Hello","7534826871")},
 $S:0}
 A.r9.prototype={
 av(){var s=null
