@@ -58407,7 +58407,7 @@ L(a){var s=null
 return new A.to(new A.tG(s),"pinecones group ltd",A.adn(s,s,A.adD()),!1,s)}}
 A.Ev.prototype={
 L(a){var s=4279594668,r=null,q="Syncopate"
-return A.XM(A.a8c(A.a([A.eH(u.h,A.d8(r,r,B.i,r,r,r,r,r,q,r,r,7,r,r,B.r,r,r,!0,r,r,r,r,r,r,r,r),B.e1,r)],t.E),new A.M(s),0,A.a8F(u.r,B.er,250,500)),new A.M(s),A.ac4(A.n3(A.eH("merchandising, procurement services and inventory management.",A.d8(r,r,B.i,r,r,r,r,r,q,r,r,40,r,r,B.r,r,r,!0,r,r,r,r,r,r,r,r),B.bQ,r),r,r),!0),r)}}
+return A.XM(A.a8c(A.a([A.eH(u.h,A.d8(r,r,B.k,r,r,r,r,r,q,r,r,7,r,r,B.r,r,r,!0,r,r,r,r,r,r,r,r),B.e1,r)],t.E),new A.M(s),0,A.a8F(u.r,B.er,250,500)),new A.M(s),A.ac4(A.n3(A.eH("merchandising, procurement services and inventory management.",A.d8(r,r,B.i,r,r,r,r,r,q,r,r,40,r,r,B.r,r,r,!0,r,r,r,r,r,r,r,r),B.bQ,r),r,r),!0),r)}}
 A.Ex.prototype={
 xc(){var s=0,r=A.a0(t.z)
 var $async$xc=A.a1(function(a,b){if(a===1)return A.Y(b,r)
