@@ -56850,7 +56850,7 @@ A.Xg.prototype={
 $0(){A.y2(A.m1("mailto:info@pinecones.ltd",0,null))},
 $S:0}
 A.DU.prototype={
-K(a){var s,r,q=4279594668,p=null,o="Syncopate",n=t.p,m=A.a78(A.a([A.ez(u.h,A.d6(p,p,B.i,p,p,p,p,p,o,p,p,8,p,p,B.p,p,p,!0,p,p,p,p,p,p,p,p),B.cI,p)],n),new A.H(q),0,A.a7C(u.r,B.eq,150,500)),l=A.mG(16),k=A.a7p(new A.kL(A.az(89,0,0,0),B.er),B.ev,new A.jb("assets/images/logistics.jpg",p,p))
+K(a){var s,r,q=4279594668,p=null,o="Syncopate",n=t.p,m=A.a78(A.a([A.ez(u.h,A.d6(p,p,B.i,p,p,p,p,p,o,p,p,8,p,p,B.p,p,p,!0,p,p,p,p,p,p,p,p),B.cI,p)],n),new A.H(q),0,A.a7C(u.r,B.eq,250,500)),l=A.mG(16),k=A.a7p(new A.kL(A.az(89,0,0,0),B.er),B.ev,new A.jb("assets/images/logistics.jpg",p,p))
 l=A.fg(p,A.o4(A.a([A.n7(A.fg(B.C,A.ez("merchandising",A.d6(p,p,B.i,p,p,p,p,p,o,p,p,p,p,p,B.aW,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,new A.dO(p,k,p,l,p,p,B.ae),265,p,p,1/0),5),A.n7(A.fg(B.C,A.ez("Utilising our local market understanding, we will assist you with logistical solutions and the development of fit-for-purpose products that appeal to your targeted retail consumer.",A.d6(p,p,B.i,p,p,p,p,p,o,p,p,14,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.bO,p),p,p,265,p,p,p),5)],n),B.b5,B.be,B.bf),p,p,p,p,p,p)
 k=A.mG(16)
 s=A.a7p(new A.kL(A.az(89,0,0,0),B.er),B.ev,new A.jb("assets/images/staffing.jpg",p,p))
